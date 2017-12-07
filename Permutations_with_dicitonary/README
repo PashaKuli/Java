@@ -1,0 +1,4 @@
+#In this project we are given a dictionary of words.
+#The end user is prompted to input a sequence of letters.
+#All permutations of the letters are generated to find the mathcing words in the dictonary.
+#Via backtracking we make sure that only appropriate permutatins(ie those that can potnetially mathc words) are generated and saved.
