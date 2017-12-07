@@ -2,4 +2,5 @@
 #Each tree is given as an object with certain atributes.
 #The end user is promted to search by city bureau, property of the tree, or name of the tree.
 #Partial searches are allowed.
-#The outpu gives all the trees, their location and additional info, as searched.
+#The output gives all the trees, their location and additional info, as searched.
+#The dataset is transformed into a BST Tree, and the searches are done via recursive binary trees.
